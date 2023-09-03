@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">project</string>
+    <string name="button">Refine</string>
+
+   <string-array name="spinner_element">
+       <item>Available | Hey Let Us Connect</item>
+       <item>Away | Stay Discrete And Connect</item>
+       <item>Busy |Do not Disturb | Will Catch..</item>
+       <item>SOS | Emergency! Need Assistance</item>
+   </string-array>
+</resources>
